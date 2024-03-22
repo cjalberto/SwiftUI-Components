@@ -1,6 +1,6 @@
-# SwiftUI Components Kit for iOS App Development
+# SwiftNestComponents for iOS App Development
 
-Welcome to the SwiftUI Components Kit, a comprehensive collection of reusable SwiftUI components designed to accelerate and enhance the development of iOS applications. This repository serves as the central hub, linking to individually maintained components, each within its own submodule, to ensure modularity and ease of use.
+Welcome to the SwiftNestComponents, a comprehensive collection of reusable SwiftUI components designed to accelerate and enhance the development of iOS applications. This repository serves as the central hub, linking to individually maintained components, each within its own submodule, to ensure modularity and ease of use.
 
 ## Features
 
